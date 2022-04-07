@@ -1,0 +1,13 @@
+.sp{color: rgb(53, 51, 51); size: 72px;}
+a {text-decoration: none; }
+#first {background-color: rgb(70, 134, 240);}
+.top{border-style: outset; box-shadow: 0px 0px 5px 0px #5F6368; color: #5F6368; padding: 2px;}
+.first{font-size: 52px; color: #5F6368; text-align: left;}
+.dow{background-color: rgb(26, 115, 232); padding: 15px; border: 0px; padding-left: 40px; padding-right: 40px;}
+.pic{background-image: url(./video/unnamed.png);}
+body{font-family: sans-serif; color: #5F6368;}
+.last{margin: 0px; padding: 0px; border-radius: 0%;}
+.beg{background-color: #4285f4; border-radius: 26px; color: #fff; margin: 12px; padding: 14px 25px 32px 30px; vertical-align: middle; font-size: .875rem; line-height: 1.25rem; font-weight: 400; letter-spacing: .01786em; height: 32px; border: 0px;}
+.int{background-color: #fbbc04; border-radius: 26px; color: #fff; margin: 12px; padding: 14px 25px 32px 30px; vertical-align: middle; font-size: .875rem; line-height: 1.25rem; font-weight: 400; letter-spacing: .01786em; height: 32px; border: 0px;}
+.adv{background-color: #ea4335; border-radius: 26px; color: #fff; margin: 12px; padding: 14px 25px 32px 30px; vertical-align: middle; font-size: .875rem; line-height: 1.25rem; font-weight: 400; letter-spacing: .01786em; height: 32px; border: 0px;}
+.fom{font-size: 17px; color: black;}
